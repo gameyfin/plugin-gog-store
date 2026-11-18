@@ -1,0 +1,14 @@
+{
+  "id": "org.gameyfin.plugins.store.gog",
+  "name": "GOG Store",
+  "description": "Looks up GOG products, tracks their latest versions and lists their DLC.<br>Uses GOG's official endpoints only.",
+  "provider": "grimsi",
+  "license": "MIT",
+  "projectUrl": "https://github.com/gameyfin/plugin-gog-store",
+  "types": [
+    "GameStoreProvider"
+  ],
+  "maintainers": [
+    "grimsi"
+  ]
+}

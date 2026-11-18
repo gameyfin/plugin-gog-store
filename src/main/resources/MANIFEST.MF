@@ -1,4 +1,4 @@
-Plugin-Version: 1.0.0
+Plugin-Version: 1.0.1
 Plugin-Class: org.gameyfin.plugins.store.gog.GogPlugin
 Plugin-Id: org.gameyfin.plugins.store.gog
 Plugin-Name: GOG Store
@@ -7,4 +7,5 @@ Plugin-Description: Looks up GOG products, tracks their latest versions and list
 Plugin-Short-Description: GOG versions, DLC and catalog search
 Plugin-Author: grimsi
 Plugin-License: MIT
-Plugin-Url: https://github.com/gameyfin
+Plugin-Url: https://github.com/gameyfin/plugin-gog-store
+Plugin-Requires: >=2.7.0
